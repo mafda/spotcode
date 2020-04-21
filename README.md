@@ -40,6 +40,8 @@ As seguintes tecnologias foram utilizadas no projeto:
 
 ### Aplicação Mobile
 
+![spotcode-web](img/spotcode_mobile.png)
+
 ## Licença
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
